@@ -272,6 +272,7 @@ GameObject:
   - component: {fileID: 578734331}
   - component: {fileID: 578734330}
   - component: {fileID: 578734329}
+  - component: {fileID: 578734334}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -394,6 +395,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 761938257}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &578734334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578734328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eb06663605f4c4f8ccc600cd355e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &692614796
 GameObject:
   m_ObjectHideFlags: 0
@@ -565,6 +578,7 @@ GameObject:
   - component: {fileID: 801380160}
   - component: {fileID: 801380159}
   - component: {fileID: 801380158}
+  - component: {fileID: 801380162}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -687,6 +701,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 801380156}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &801380162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 801380156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eb06663605f4c4f8ccc600cd355e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -792,6 +818,7 @@ GameObject:
   - component: {fileID: 1207739193}
   - component: {fileID: 1207739192}
   - component: {fileID: 1207739191}
+  - component: {fileID: 1207739195}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -914,6 +941,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207739189}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1207739195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207739189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eb06663605f4c4f8ccc600cd355e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1278826103
 GameObject:
   m_ObjectHideFlags: 0
@@ -927,6 +966,7 @@ GameObject:
   - component: {fileID: 1278826107}
   - component: {fileID: 1278826106}
   - component: {fileID: 1278826105}
+  - component: {fileID: 1278826109}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -1049,6 +1089,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1278826103}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1278826109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278826103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eb06663605f4c4f8ccc600cd355e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1369597139
 GameObject:
   m_ObjectHideFlags: 0
@@ -1126,6 +1178,7 @@ GameObject:
   - component: {fileID: 1804469206}
   - component: {fileID: 1804469205}
   - component: {fileID: 1804469204}
+  - component: {fileID: 1804469208}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -1248,6 +1301,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1804469202}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1804469208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1804469202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eb06663605f4c4f8ccc600cd355e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
